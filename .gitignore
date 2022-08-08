@@ -1,0 +1,4 @@
+<!--en este archivo se puede detallar todos esos archivos o carpetas
+que no quieren que se les haga seguimiento-->
+.env
+node_modules
